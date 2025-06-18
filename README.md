@@ -32,3 +32,35 @@ As an **AI transformation consultant**, your task is to:
 - **Develop a predictive model logic using GenAI** to forecast delinquency likelihood.
 - **Provide structured recommendations** on intervention strategies.
 - **Prepare a PowerPoint presentation** outlining how Geldium can implement an AI-powered collections system, including ethical guardrails and expected business impact.
+
+## Project Tasks
+
+**1. Exploratory data analysis and risk profiling**
+
+**EDA**: 
+  - Understanding the dataset
+  - Identifying missing values and outliers
+  - Understanding relationships between variables
+  - Detecting paterns and risk factors
+
+**Handle missing values and ensure data quality**: 
+  - Deleting missing data
+  - Imputation (replacing missing data)
+  - AI-assisted Imputation
+
+Lenders assess various financial and behavioral indicators to determine whether a customer is likely to miss payments. By analyzing these factors, Geldium’s Collections team can proactively identify customers who may need early intervention, reducing financial losses and improving repayment outcomes.
+
+**Key risk factors for delinquency**:  
+  - **_Payment history_** – Customers with a history of late or missed payments are more likely to default.
+  - **_Credit utilization rate_** – High usage of available credit can indicate financial stress and potential repayment issues.
+  - **_Debt-to-income (DTI) ratio_** – A high DTI suggests a customer may struggle to manage their financial obligations.
+  - **_Recent credit activity_** – A sudden increase in new credit accounts or loan applications may signal financial instability.
+  - **_Employment and income stability_** – Frequent job changes or inconsistent income can contribute to a higher risk of missed payments.
+  - **_Demographic trends_** – While AI models must avoid bias, certain patterns (e.g., younger customers with limited credit history) may require additional analysis.
+
+**Ethical considerations**:
+
+  While synthetic data can enhance dataset completeness, it must be used carefully to avoid:
+  - **_Introducing bias_** – Ensure synthetic records reflect realistic patterns.
+  - **_Misrepresenting risk factors_** – Avoid generating overly optimistic or pessimistic data.
+  - **_Compromising compliance_** – Validate that synthetic data aligns with industry regulations.
