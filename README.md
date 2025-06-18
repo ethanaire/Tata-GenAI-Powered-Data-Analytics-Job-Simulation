@@ -57,3 +57,10 @@ Lenders assess various financial and behavioral indicators to determine whether 
   - **_Recent credit activity_** – A sudden increase in new credit accounts or loan applications may signal financial instability.
   - **_Employment and income stability_** – Frequent job changes or inconsistent income can contribute to a higher risk of missed payments.
   - **_Demographic trends_** – While AI models must avoid bias, certain patterns (e.g., younger customers with limited credit history) may require additional analysis.
+
+**Ethical considerations**:
+
+  While synthetic data can enhance dataset completeness, it must be used carefully to avoid:
+  - **_Introducing bias_** – Ensure synthetic records reflect realistic patterns.
+  - **_Misrepresenting risk factors_** – Avoid generating overly optimistic or pessimistic data.
+  - **_Compromising compliance_** – Validate that synthetic data aligns with industry regulations.
