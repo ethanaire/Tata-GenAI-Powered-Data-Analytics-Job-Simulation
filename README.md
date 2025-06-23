@@ -64,3 +64,20 @@ Lenders assess various financial and behavioral indicators to determine whether 
   - **_Introducing bias_** – Ensure synthetic records reflect realistic patterns.
   - **_Misrepresenting risk factors_** – Avoid generating overly optimistic or pessimistic data.
   - **_Compromising compliance_** – Validate that synthetic data aligns with industry regulations.
+
+**2. Predicting delinquency with AI**
+
+Geldium wants to use AI to predict which customers are at risk of missing payments so they can take proactive steps to reduce delinquency. Our goal is to develop a model that supports the Collections team in prioritizing outreach and intervention strategies.
+- Use **GenAI tools** to develop a **predictive model** for identifying high-risk customers.
+- Choose and **justify the best approach**—whether decision trees, logistic regression, or another technique.
+- Define a plan to **evaluate model performance** while ensuring fairness and explainability.
+
+Common techniques for credit risk modeling: 
+- Use **decision trees** if you need transparency and clear risk segmentation.
+- Use **logistic regression** if you need a probability-based approach that is easy to interpret.
+- Use **neural networks** if you have a complex dataset and need high accuracy at the cost of explainability.
+
+Completing a Model Plan Report: 
+- Generate model logic using GenAI.
+- Justify your model choice.
+- Plan how to evaluate model performance.
