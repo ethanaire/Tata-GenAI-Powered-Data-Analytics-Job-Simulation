@@ -35,7 +35,7 @@ As an **AI transformation consultant**, your task is to:
 
 ## Project Tasks
 
-**1. Exploratory data analysis and risk profiling**
+**Task 1: Exploratory data analysis and risk profiling**
 
 **EDA**: 
   - Understanding the dataset
@@ -65,7 +65,7 @@ Lenders assess various financial and behavioral indicators to determine whether 
   - **_Misrepresenting risk factors_** – Avoid generating overly optimistic or pessimistic data.
   - **_Compromising compliance_** – Validate that synthetic data aligns with industry regulations.
 
-**2. Predicting delinquency with AI**
+**Task 2: Predicting delinquency with AI**
 
 Geldium wants to use AI to predict which customers are at risk of missing payments so they can take proactive steps to reduce delinquency. Our goal is to develop a model that supports the Collections team in prioritizing outreach and intervention strategies.
 - Use **GenAI tools** to develop a **predictive model** for identifying high-risk customers.
@@ -81,3 +81,21 @@ Completing a Model Plan Report:
 - Generate model logic using GenAI.
 - Justify your model choice.
 - Plan how to evaluate model performance.
+
+**Task 3: Business report and data storytelling for collections strategy**
+
+Predictive insights are patterns your model uncovered and a business recommendation is the next step: a practical, strategic action the team can take based on the insight.
+
+Your role is to bridge the gap between data and action by:
+- Restating the insight in clear terms
+- Brainstorming possible responses
+- Evaluating each option based on feasibility and impact
+- Selecting one course of action
+- Justifying it clearly to decision-makers
+
+AI-powered tools can improve decision-making, but they can also introduce risks, especially in sensitive areas like credit and collections. As an AI transformation consultant, you're not only responsible for what a model predicts but also how those predictions are used and understood. Before presenting or recommending any model-driven action, it's important to consider three key areas: bias, explainability, responsible decision-making. 
+
+The final output as a Business Summaty Report includes: 
+- Summary of predictive insights.
+- Recommendation framework.
+- Ethical and responsible AI considerations.
