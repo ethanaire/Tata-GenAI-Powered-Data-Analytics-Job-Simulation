@@ -99,3 +99,25 @@ The final output as a Business Summaty Report includes:
 - Summary of predictive insights.
 - Recommendation framework.
 - Ethical and responsible AI considerations.
+
+**Task 4: Implementing an AI-driven collections strategy**
+
+Your new task is to prepare a presentation outlining a framework for an AI-powered collections system that does just that. This means designing a system that uses agentic AI — systems capable of reasoning, adapting, and making autonomous decisions — to optimize and personalize customer outreach at scale. 
+
+To achieve this, you'll need to consider:
+- How the system will process model outputs and _automatically_ take action (e.g., triggering reminders, adjusting outreach cadence, escalating cases).
+- Where human oversight is _essential_, and what limits or controls should be implemented on the AI's actions.
+- How the system can be adaptive and self-improving — learning from new data to _continuously refine_ its decision-making.
+- What safeguards are required to ensure fairness, transparency, explainability, and legal compliance throughout the system's operation.
+
+Designing an AI-powered, autonomous debt-management system: 
+- Ingest predictive risk scores (e.g., from your model in Task 2)
+- Determine the best course of action (e.g., payment reminder, hardship support)
+- Personalise timing and messaging based on customer behavior
+- Monitor outcomes and adjust future actions accordingly
+
+Key components of an autonomous system:
+- Data pipeline: Feeds the system real-time customer information.
+- Decision engine: Applies business rules and model outputs to make autonomous decisions.
+- Action layer: Executes interventions.
+- Learning loop: Monitors outcomes and feeds them back into the model to refine future decisions.
