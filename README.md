@@ -1,4 +1,4 @@
-# Tata GenAI Powered Data Analytics Job Simulation
+# Tata GenAI Powered Data Analytics
 
 ## Your team
 
@@ -121,3 +121,7 @@ Key components of an autonomous system:
 - Decision engine: Applies business rules and model outputs to make autonomous decisions.
 - Action layer: Executes interventions.
 - Learning loop: Monitors outcomes and feeds them back into the model to refine future decisions.
+
+## Note: 
+
+The project's credit belongs to [Forage](https://www.theforage.com/simulations/tata/data-analytics-t3zr) 
