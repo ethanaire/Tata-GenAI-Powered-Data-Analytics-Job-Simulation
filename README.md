@@ -122,6 +122,33 @@ Key components of an autonomous system:
 - Action layer: Executes interventions.
 - Learning loop: Monitors outcomes and feeds them back into the model to refine future decisions.
 
+Core strategies to follow: 
+
+1. Explainability
+   
+    - Use interpretable models where possible (e.g., decision trees, logistic regression).
+    - Document how the system arrives at key decisions, especially those affecting customers' financial outcomes.
+
+2. Bias detection and mitigation
+   
+    - Regularly audit your models for disparate impact (e.g., does the model unfairly penalize certain age, income, or demographic groups?).
+    - Use diverse, representative data during training.
+  
+3. Human-in-the-loop
+   
+    - Require human approval for high-impact decisions (e.g., denying hardship assistance).
+    - Escalate edge cases or anomalies for manual review.
+
+4. Compliance alignment
+
+    - Validate the system against financial regulations (e.g., FCA fairness standards, Equal Credit Opportunity Act).
+    - Maintain clear records of decision logic and audit trails for regulator access.
+
+5. Customer-centric design
+
+    - Make AI decisions understandable to customers.
+    - Provide options to appeal or challenge outcomes.
+      
 ## Note: 
 
 The project's credit belongs to [Forage](https://www.theforage.com/simulations/tata/data-analytics-t3zr) 
